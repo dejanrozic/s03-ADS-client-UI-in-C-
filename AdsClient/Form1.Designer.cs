@@ -58,6 +58,7 @@ namespace adsClientVisu
             this.tbNetId.Size = new System.Drawing.Size(134, 20);
             this.tbNetId.TabIndex = 0;
             this.tbNetId.Text = "127.0.0.1.1.1";
+            this.tbNetId.TextChanged += new System.EventHandler(this.tbNetId_TextChanged);
             // 
             // label1
             // 

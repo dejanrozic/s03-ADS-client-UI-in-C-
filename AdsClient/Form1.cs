@@ -157,6 +157,11 @@ namespace adsClientVisu
         private void lbOutput_SelectedIndexChanged(object sender, EventArgs e)
         {
            
-        } 
+        }
+
+        private void tbNetId_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

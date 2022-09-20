@@ -1,0 +1,14 @@
+C:\WORKZONE\s03-ADS-client-UI-in-C-\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\WORKZONE\s03-ADS-client-UI-in-C-\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\WORKZONE\s03-ADS-client-UI-in-C-\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\WORKZONE\s03-ADS-client-UI-in-C-\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\TwinCAT.Ads.dll
+C:\WORKZONE\s03-ADS-client-UI-in-C-\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\TwinCAT.Ads.xml
+C:\WORKZONE\s03-ADS-client-UI-in-C-\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\WORKZONE\s03-ADS-client-UI-in-C-\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\WORKZONE\s03-ADS-client-UI-in-C-\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\WORKZONE\s03-ADS-client-UI-in-C-\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\WORKZONE\s03-ADS-client-UI-in-C-\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\WORKZONE\s03-ADS-client-UI-in-C-\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\WORKZONE\s03-ADS-client-UI-in-C-\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\WORKZONE\s03-ADS-client-UI-in-C-\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\WORKZONE\s03-ADS-client-UI-in-C-\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

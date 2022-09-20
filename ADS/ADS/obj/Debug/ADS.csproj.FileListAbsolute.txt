@@ -1,0 +1,14 @@
+C:\WORKZONE\s03-ADS-client-UI-in-C-\ADS\ADS\bin\Debug\ADS.exe.config
+C:\WORKZONE\s03-ADS-client-UI-in-C-\ADS\ADS\bin\Debug\ADS.exe
+C:\WORKZONE\s03-ADS-client-UI-in-C-\ADS\ADS\bin\Debug\ADS.pdb
+C:\WORKZONE\s03-ADS-client-UI-in-C-\ADS\ADS\bin\Debug\TwinCAT.Ads.dll
+C:\WORKZONE\s03-ADS-client-UI-in-C-\ADS\ADS\bin\Debug\TwinCAT.Ads.xml
+C:\WORKZONE\s03-ADS-client-UI-in-C-\ADS\ADS\obj\Debug\ADS.csproj.AssemblyReference.cache
+C:\WORKZONE\s03-ADS-client-UI-in-C-\ADS\ADS\obj\Debug\ADS.csproj.SuggestedBindingRedirects.cache
+C:\WORKZONE\s03-ADS-client-UI-in-C-\ADS\ADS\obj\Debug\ADS.Properties.Resources.resources
+C:\WORKZONE\s03-ADS-client-UI-in-C-\ADS\ADS\obj\Debug\ADS.csproj.GenerateResource.cache
+C:\WORKZONE\s03-ADS-client-UI-in-C-\ADS\ADS\obj\Debug\ADS.csproj.CoreCompileInputs.cache
+C:\WORKZONE\s03-ADS-client-UI-in-C-\ADS\ADS\obj\Debug\ADS.csproj.CopyComplete
+C:\WORKZONE\s03-ADS-client-UI-in-C-\ADS\ADS\obj\Debug\ADS.exe
+C:\WORKZONE\s03-ADS-client-UI-in-C-\ADS\ADS\obj\Debug\ADS.pdb
+C:\WORKZONE\s03-ADS-client-UI-in-C-\ADS\ADS\obj\Debug\ADS.DisconnecBtn.resources

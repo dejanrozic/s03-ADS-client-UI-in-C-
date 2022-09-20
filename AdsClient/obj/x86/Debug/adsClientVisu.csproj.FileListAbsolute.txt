@@ -1,0 +1,9 @@
+C:\WORKZONE\s03-ADS-client-UI-in-C-\AdsClient\bin\Debug\adsClientVisu.exe
+C:\WORKZONE\s03-ADS-client-UI-in-C-\AdsClient\bin\Debug\adsClientVisu.pdb
+C:\WORKZONE\s03-ADS-client-UI-in-C-\AdsClient\obj\x86\Debug\adsClientVisu.csproj.AssemblyReference.cache
+C:\WORKZONE\s03-ADS-client-UI-in-C-\AdsClient\obj\x86\Debug\adsClientVisu.form.resources
+C:\WORKZONE\s03-ADS-client-UI-in-C-\AdsClient\obj\x86\Debug\adsClientVisu.Properties.Resources.resources
+C:\WORKZONE\s03-ADS-client-UI-in-C-\AdsClient\obj\x86\Debug\adsClientVisu.csproj.GenerateResource.cache
+C:\WORKZONE\s03-ADS-client-UI-in-C-\AdsClient\obj\x86\Debug\adsClientVisu.csproj.CoreCompileInputs.cache
+C:\WORKZONE\s03-ADS-client-UI-in-C-\AdsClient\obj\x86\Debug\adsClientVisu.exe
+C:\WORKZONE\s03-ADS-client-UI-in-C-\AdsClient\obj\x86\Debug\adsClientVisu.pdb
